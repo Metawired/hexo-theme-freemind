@@ -1,36 +1,16 @@
-slogan: "Yet another bootstrap theme."
+slogan: ""
 
 menu:
   - title: Archives
     url: archives
     intro: "All the articles."
     icon: "fa fa-archive"
-  - title: Categories
-    url: categories
-    intro: "All the categories."
-    icon: "fa fa-folder"
-  - title: Tags
-    url: tags
-    intro: "All the tags."
-    icon: "fa fa-tags"
-  - title: About
-    url: about
-    intro: "About me."
-    icon: "fa fa-user"
 
 links:
-  - title: Freemind
-    url: https://github.com/wzpan/freemind/
-    intro: "Freemind's Github repository."
-    icon: "fa fa-github"
-  - title: "My Github"
-    url: http://www.github.com/wzpan
-    intro: "My Github account."
-    icon: "fa fa-github"
-  - title: "My LinkedIn"
-    url: http://www.linkedin.com/in/hahack
-    intro: "My Linkin account."
-    icon: "fa fa-linkedin"
+  - title: Metawired
+    url: http://metawired.eu
+    intro: "Metawired website"
+    icon: "fa fa-folder"
 
 widgets:
 - search
@@ -41,7 +21,7 @@ widgets:
 
 rss: 
 fancybox: true
-favicon: favicon.png
+favicon: favicon.ico
 duoshuo_shortname:
 
 # Analytics
